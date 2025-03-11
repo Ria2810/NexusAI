@@ -1,6 +1,6 @@
 # ✨NexusAI✨
 
-![Cover Image](cover-image.png)
+![Cover Image](cover-page.jpg)
 
 Welcome to the **AI Agents Suite** – a collection of powerful, AI-driven agents designed to revolutionize how you interact with technology. This repository hosts a diverse set of agents, each tailored to a specific domain ranging from customer support and healthcare to education, travel, and more.
 
