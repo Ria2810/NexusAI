@@ -32,6 +32,31 @@ Welcome to the **AI Agents Suite** – a collection of powerful, AI-driven agent
 3. **Install the Dependencies**  
    ```pip install -r requirements.txt```
 
+## Configuration ⚙️
+
+Before running the application, create a `.env` file in the project root and add the following environment variables:
+
+```env
+OPENAI_API_KEY=your_openai_api_key
+TOGETHER_API_KEY=your_together_api_key
+GOOGLE_API_KEY=your_google_api_key
+HUGGING_FACE=your_hugging_face_api_key
+SERPAPI_API_KEY=your_serpapi_api_key
+COMPOSIO_API_KEY=your_composio_api_key
+FIRECRAWL_API_KEY=your_firecrawl_api_key
+LANGCHAIN_API_KEY=your_langchain_api_key
+LANGCHAIN_TRACING_V2=your_langchain_tracing_v2
+LANGCHAIN_PROJECT=your_langchain_project
+FROM_EMAIL=your_from_email
+SMTP_SERVER=your_smtp_server
+SMTP_PORT=your_smtp_port
+SMTP_USERNAME=your_smtp_username
+SMTP_PASSWORD=your_smtp_password
+EMAIL_SUBJECT=your_email_subject
+```
+Replace the placeholder values with your actual API keys and credentials.
+
+
 ## Usage 🚀
 
 Run the application using Streamlit with the following command:
