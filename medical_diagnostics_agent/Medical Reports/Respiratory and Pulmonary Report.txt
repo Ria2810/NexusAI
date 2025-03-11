@@ -1,0 +1,24 @@
+Patient Name: Robert Thompson
+Age: 47
+Gender: Male
+
+Chief Complaint:
+- Chronic cough and shortness of breath, particularly at night.
+
+History of Present Illness:
+- Patient reports a 3-month history of a persistent, non-productive cough with occasional wheezing.
+- Noted increased shortness of breath with exertion and decreased exercise tolerance.
+- Denies fever or recent respiratory infections.
+
+Past Medical History:
+- Former smoker; diagnosed with mild chronic obstructive pulmonary disease (COPD) 5 years ago.
+
+Medications:
+- Albuterol inhaler as needed.
+
+Diagnostic Tests:
+- Chest X-ray: Evidence of hyperinflation.
+- Spirometry: Reduced FEV1/FVC ratio consistent with obstructive lung disease.
+
+Assessment:
+- Likely COPD exacerbation; recommend optimizing inhaler technique, considering inhaled corticosteroids, and pulmonary rehabilitation.

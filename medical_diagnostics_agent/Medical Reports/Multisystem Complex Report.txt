@@ -1,0 +1,27 @@
+Patient Name: Sophia Martinez
+Age: 62
+Gender: Female
+
+Chief Complaint:
+- Unexplained weight loss, upper abdominal pain, and a new skin rash.
+
+History of Present Illness:
+- Over the last 2 months, patient has lost approximately 8 kg without changes in diet.
+- Reports persistent, dull upper abdominal discomfort.
+- Developed a pruritic, erythematous rash on both forearms.
+- Denies fever or night sweats.
+
+Past Medical History:
+- History of benign thyroid nodules.
+- Hypercholesterolemia managed with diet.
+
+Medications:
+- Levothyroxine 75 mcg daily, Simvastatin 20 mg daily.
+
+Diagnostic Tests:
+- Abdominal Ultrasound: Presence of gallstones.
+- Liver Function Tests: Mildly elevated transaminases.
+- Skin Biopsy: Pending results.
+
+Assessment:
+- Differential diagnosis includes cholelithiasis with possible cholecystitis, thyroid-related skin manifestations, or a drug reaction. Multidisciplinary evaluation is recommended.

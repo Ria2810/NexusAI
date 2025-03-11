@@ -1,0 +1,25 @@
+Patient Name: Michael Johnson
+Age: 55
+Gender: Male
+
+Chief Complaint:
+- Persistent chest pain and shortness of breath during exertion.
+
+History of Present Illness:
+- Patient reports a 2-week history of intermittent, squeezing chest discomfort radiating to the left arm.
+- The pain increases with physical activity and is relieved somewhat by rest.
+- Denies prior similar episodes.
+
+Past Medical History:
+- Hypertension, hyperlipidemia, type 2 diabetes mellitus.
+
+Medications:
+- Metformin 500 mg BID, Lisinopril 10 mg daily, Atorvastatin 20 mg nightly.
+
+Diagnostic Tests:
+- ECG: ST depressions noted in leads V4-V6.
+- Echocardiogram: Mild left ventricular hypertrophy.
+- Stress Test: Moderate ischemia during peak exercise.
+
+Assessment:
+- Suspected stable angina; further evaluation with coronary angiography is recommended.

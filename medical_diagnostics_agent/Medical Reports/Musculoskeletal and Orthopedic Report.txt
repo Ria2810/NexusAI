@@ -1,0 +1,25 @@
+Patient Name: Karen Miller
+Age: 39
+Gender: Female
+
+Chief Complaint:
+- Persistent right knee pain and morning stiffness.
+
+History of Present Illness:
+- Patient reports a 4-month history of pain and swelling in the right knee.
+- Symptoms are most pronounced in the morning and after prolonged sitting.
+- No history of acute trauma; pain is progressive.
+
+Past Medical History:
+- Family history of rheumatoid arthritis.
+- No prior joint injuries.
+
+Medications:
+- Occasional over-the-counter NSAIDs.
+
+Diagnostic Tests:
+- Knee X-ray: Joint space narrowing and osteophyte formation.
+- Blood tests: Mildly elevated ESR and CRP.
+
+Assessment:
+- Findings are suggestive of early osteoarthritis. Recommend physiotherapy, weight management, and possible referral to a rheumatologist for further evaluation.

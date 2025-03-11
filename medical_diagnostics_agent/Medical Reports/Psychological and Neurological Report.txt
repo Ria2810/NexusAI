@@ -1,0 +1,25 @@
+Patient Name: Emily Carter
+Age: 34
+Gender: Female
+
+Chief Complaint:
+- Persistent anxiety, insomnia, and occasional headaches.
+
+History of Present Illness:
+- Over the past 6 months, patient has experienced pervasive worry, restlessness, and difficulty falling asleep.
+- Reports intermittent throbbing headaches, particularly in the mornings.
+- Denies significant life changes; attributes symptoms to chronic work-related stress.
+
+Past Medical History:
+- Generalized anxiety disorder (diagnosed 2 years ago), with intermittent panic attacks.
+- No history of migraines or seizure disorders.
+
+Medications:
+- Sertraline 50 mg daily.
+
+Diagnostic Tests:
+- Mental health screening: Elevated anxiety and depression scores.
+- Neurological exam: Unremarkable; no focal deficits.
+
+Assessment:
+- Symptoms consistent with exacerbation of anxiety disorder. Consider cognitive-behavioral therapy and reassessment of pharmacotherapy.

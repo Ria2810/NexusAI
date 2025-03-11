@@ -1,0 +1,24 @@
+Patient Name: David Lee
+Age: 48
+Gender: Male
+
+Chief Complaint:
+- Increased fatigue, polyuria, and unintentional weight loss.
+
+History of Present Illness:
+- Patient has experienced increased thirst, frequent urination, and a weight loss of approximately 5 kg over the past 3 months.
+- Reports persistent fatigue and occasional blurred vision.
+
+Past Medical History:
+- No prior diagnosis of metabolic or endocrine disorders.
+
+Medications:
+- Currently not on any medications.
+
+Diagnostic Tests:
+- Fasting blood glucose: 180 mg/dL.
+- HbA1c: 8.2%.
+- Thyroid function tests: Within normal limits.
+
+Assessment:
+- Findings suggest a new diagnosis of type 2 diabetes mellitus. Recommend initiating lifestyle modifications, possible pharmacotherapy, and further endocrine follow-up.

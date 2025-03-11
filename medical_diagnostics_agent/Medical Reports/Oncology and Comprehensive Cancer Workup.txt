@@ -1,0 +1,24 @@
+Patient Name: Linda Roberts
+Age: 67
+Gender: Female
+
+Chief Complaint:
+- Unexplained weight loss and persistent dry cough.
+
+History of Present Illness:
+- Patient reports a 6-month history of losing approximately 10 kg without trying.
+- Persistent dry cough with occasional episodes of hemoptysis.
+- Significant smoking history of 40 pack-years.
+
+Past Medical History:
+- Former smoker; no previous cancer diagnoses.
+
+Medications:
+- Not currently on any medications.
+
+Diagnostic Tests:
+- Chest CT: Reveals a solitary pulmonary nodule in the right upper lobe.
+- Biopsy: Scheduled pending imaging review.
+
+Assessment:
+- Findings are concerning for possible lung malignancy. An oncologic workup is advised along with further diagnostic testing.

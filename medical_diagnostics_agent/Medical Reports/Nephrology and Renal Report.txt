@@ -1,0 +1,24 @@
+Patient Name: Mark Wilson
+Age: 58
+Gender: Male
+
+Chief Complaint:
+- Progressive fatigue and reduced urine output.
+
+History of Present Illness:
+- Patient reports increased fatigue, swelling in the lower extremities, and a noticeable decrease in urine output over the past month.
+- Denies recent infections or changes in diet.
+
+Past Medical History:
+- Longstanding hypertension, history of kidney stones.
+
+Medications:
+- Lisinopril 10 mg daily.
+
+Diagnostic Tests:
+- Serum Creatinine: 2.1 mg/dL (elevated).
+- Blood Urea Nitrogen (BUN): Elevated.
+- Urinalysis: Proteinuria detected.
+
+Assessment:
+- Findings indicate possible chronic kidney disease. Recommend a nephrology consultation for further evaluation and management.
