@@ -4,7 +4,7 @@
   <img src="cover-page.jpg" alt="Cover Image" style="width:100%; max-width:100%;">
 </div>
 
-Welcome to the **AI Agents Suite** – a collection of powerful, AI-driven agents designed to revolutionize how you interact with technology. This repository hosts a diverse set of agents, each tailored to a specific domain ranging from customer support and healthcare to education, travel, and more.
+Welcome to **NEXUAI: The AI Agents Suite** – a collection of powerful, AI-driven agents designed to revolutionize how you interact with technology. This repository hosts a diverse set of agents, each tailored to a specific domain ranging from customer support and healthcare to education, travel, and more.
 
 ## Agents Overview 🌟
 
@@ -21,6 +21,8 @@ Welcome to the **AI Agents Suite** – a collection of powerful, AI-driven agent
 | **🖼️🗣️ Image to Speech GenAI Tool** | Converts images into engaging audio narratives by transforming visual content into descriptive speech, ideal for accessibility and creative storytelling.                     |
 | **📈 AI Lead Generation**        | Automates the process of generating high-quality leads by extracting and organizing valuable user data into Google Sheets for easy follow-up and analysis.                  |
 
+---
+
 ## Installation 🔧
 
 1. **Clone the Repository**  
@@ -31,6 +33,8 @@ Welcome to the **AI Agents Suite** – a collection of powerful, AI-driven agent
 
 3. **Install the Dependencies**  
    ```pip install -r requirements.txt```
+
+---
 
 ## Configuration ⚙️
 
@@ -56,6 +60,7 @@ EMAIL_SUBJECT=your_email_subject
 ```
 Replace the placeholder values with your actual API keys and credentials.
 
+---
 
 ## Usage 🚀
 
@@ -65,13 +70,40 @@ Run the application using Streamlit with the following command:
 
 Each agent is accessible via its dedicated section in the Streamlit UI. Follow the on-screen instructions to interact with the agent you’re interested in.
 
+---
+
+## Demo Videos📽️
+- **Main Dashboard Page**:
+![Demo Video](videos/main-page.gif)
+
+- **24/7 Customer Service Agent**:
+![Demo Video](videos/cust-service.gif)
+
+- **Health Assistant**:
+![Demo Video](videos/health-assistant.gif)
+
+- **Travel Agent**:
+![Demo Video](videos/travel-agent.gif)
+
+- **Multi-PDFs ChatApp**:
+![Demo Video](videos/multi-pdf.gif)
+
+- **AI Lead Generation**:
+![Demo Video](videos/lead.gif)
+
+---
+
 ## Contributing 🤝
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests. When contributing, please follow the code style guidelines and ensure your changes are well documented.
 
+---
+
 ## License 📄
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for further details.
+
+---
 
 ## Contact 📧
 
