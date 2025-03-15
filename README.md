@@ -10,6 +10,7 @@ Welcome to **NEXUSAI: The AI Agents Suite** – a collection of powerful, AI-dri
 
 | **Agent Name**                   | **Description**                                                                                                                                                              |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Smart Resume Analyzer**        |An AI-powered tool that compares resumes with job descriptions, providing insightful feedback to both recruiters and job seekers for better hiring decisions and career growth.|
 | **🤖 24/7 AI Chatbot**           | A round-the-clock conversational agent that engages users and provides instant customer support.                                                                              |
 | **🩺 AI Health Assistant**       | An intelligent virtual health companion offering preliminary health advice and medical information to guide your well-being.                                                   |
 | **🧑‍🏫 Virtual Tutor**           | Your personal educational assistant that explains complex concepts and answers questions, enhancing your learning experience across multiple subjects.                     |
