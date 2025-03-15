@@ -211,13 +211,13 @@ st.markdown("""
 
 # Page title and description
 st.markdown("<h1 style='text-align:center;'>✨NexusAI✨</h1>", unsafe_allow_html=True)
-st.markdown("<h5 style='text-align:center;'>- By Ria Choudhari❤️</h5>", unsafe_allow_html=True)
-st.markdown("<p style='text-align:center;'>Click on any AI agent card to launch and open it automatically.</p>", unsafe_allow_html=True)
+st.markdown("<h5 style='text-align:center;'>Your Gateway to Smart AI Solutions!</h5>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center;'>Click on any AI agent card to launch and experience innovation instantly! ❤️</p>", unsafe_allow_html=True)
 
 # Display cards in rows of 4 columns
-columns = st.columns(4)
+columns = st.columns(3)
 for idx, (agent_name, details) in enumerate(agents.items()):
-    with columns[(idx+1) % 4]:
+    with columns[(idx+1) % 3]:
         st.markdown(f"""
         <a href="?agent={urllib.parse.quote(agent_name)}" style="text-decoration: none;" target="_self">
             <div class="card">
