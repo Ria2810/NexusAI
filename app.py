@@ -76,7 +76,7 @@ agents = {
         "port": 8522,
         "emoji": "📄",
         "img": "images/SmartResumeAnalyzer.webp",
-        "description": "An AI-powered tool for analyzing resumes and providing feedback."
+        "description": "An AI-powered tool for analyzing  resumes with job descriptions and providing feedback."
     },
 
     "24/7 AI Chatbot": {
