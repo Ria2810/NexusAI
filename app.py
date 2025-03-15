@@ -71,6 +71,14 @@ def launch_agent(agent_name, details):
 
 # --- Define AI Agents with Unique Ports, Scripts, Emojis, Image Paths, and Descriptions ---
 agents = {
+    "Smart Resume Analyzer": {
+        "script": "SmartResumeAnalyzer/app.py", 
+        "port": 8522,
+        "emoji": "📄",
+        "img": "images/SmartResumeAnalyzer.webp",
+        "description": "An AI-powered tool for analyzing resumes and providing feedback."
+    },
+
     "24/7 AI Chatbot": {
         "script": "customer_service/app.py", 
         "port": 8511,
